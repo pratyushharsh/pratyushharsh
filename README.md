@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pratyushharsh/pratyushharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi I,m Pratyush 👋
+
+I'm a software engineer who is passionate about Deep Learning and Blockchain. Some of the technologies I enjoy working with include Java Spring, Tensorflow, and Flutter.
+
+
+- 🌱 I’m currently learning currently learning deep reinforcement learning
